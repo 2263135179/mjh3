@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#03A9F4</color>
+    <color name="colorAccent">#03A9F4</color>
+    <!-- 自定义 -->
+    <color name="black">#000</color>
+    <color name="reb">#03A9F4</color>
+    <color name="dividerColor">#22000000</color>
+    <color name="dimGrey">#696969</color>
+</resources>
